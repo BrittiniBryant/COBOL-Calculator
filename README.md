@@ -1,4 +1,4 @@
-# COBOL-Calculator
+# COBOL-Calculator (Operation ThunderSnatch)
 A simple COBOL calculator for practice as an introduction to the language. Nothing fancy.
 
 The options for how to calculate things are displayed out for the user. 
